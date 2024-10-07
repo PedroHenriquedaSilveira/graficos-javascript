@@ -5,7 +5,7 @@
     --primary-color: #DDDDDD;
     --secundary-color: #F05454;
     --font: “Nunito Sans”, sans-serif;
-}
+
 
 body {
     background-color: var(--bg-color);
@@ -40,5 +40,6 @@ footer {
     justify-content: center;
     background-color: var(--primary-color);
     color: var(--bg-color);
+}
 }
 }
